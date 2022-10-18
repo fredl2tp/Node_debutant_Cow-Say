@@ -1,0 +1,1 @@
+const meMoi = require("./information");
